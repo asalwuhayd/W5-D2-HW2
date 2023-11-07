@@ -1,0 +1,46 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+.hedarphto {
+    background-size: cover;
+    position: relative;
+  }
+
+  .hedarphto .photo {
+    width: 100%;
+    
+  }
+ 
+
+  .hedarphto .text {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
+    color:#fff;
+    
+  }
+
+  .hedarphto .text h1 {
+    margin: 0 0px 30px;
+    
+    
+    margin-left: 32px;
+    font-size:50px;
+  }
+
+  .hedarphto .text p {
+    margin: 0 0 40px;
+    margin-left: 32px;
+    font-size:25px;
+    
+  }
+  
+
+  
+
+
+ 
